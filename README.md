@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I’m Anvar
 
-<!--
-**AnvarKhudoiev/AnvarKhudoiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Front-end Developer focused on building modern, user-friendly web interfaces.
+I specialize in React, Tailwind CSS, and TypeScript.
+I’m constantly improving my skills to write clean, maintainable, and scalable code.
 
-Here are some ideas to get you started:
+⸻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+
+React • Tailwind CSS • BOOTSTRAP • TypeScript • HTML • CSS • JavaScript • POSTGRESQL
+
+⸻
+
+“Clean code and elegant design make life easier for users and developers alike.”
